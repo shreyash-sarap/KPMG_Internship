@@ -1,5 +1,8 @@
 # KPMG Data Analytics Consulting Virtual Internship
 
+[KPMG_AU__completion_certificate.pdf](https://github.com/shreyash-sarap/KPMG_Internship/files/12376680/KPMG_AU__completion_certificate.pdf)
+
+
 Welcome to the KPMG Data Analytics Consulting Virtual Internship!
 
 This repository contains the documentation of practical tasks completed by [Your Name] during the internship in the following modules: Data Quality Assessment, Data Insights, and Data Insights and Presentation.
