@@ -1,6 +1,6 @@
 # KPMG Data Analytics Consulting Virtual Internship
 
-[KPMG_AU__completion_certificate.pdf](https://github.com/shreyash-sarap/KPMG_Internship/files/12376680/KPMG_AU__completion_certificate.pdf)
+[KPMG_AU__completion_certificate.pdf](https://github.com/shreyash-sarap/KPMG_Internship/files/12376680/KPMG_AU__completion_certificate.jpg)
 
 
 Welcome to the KPMG Data Analytics Consulting Virtual Internship!
