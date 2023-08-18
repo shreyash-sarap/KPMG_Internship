@@ -1,5 +1,6 @@
 # KPMG Data Analytics Consulting Virtual Internship
 
+![KPMG](https://github.com/shreyash-sarap/KPMG_Internship/assets/101419054/c7ce11f4-5919-4981-abcc-bbd81654c18d)
 
 
 Welcome to the KPMG Data Analytics Consulting Virtual Internship!
